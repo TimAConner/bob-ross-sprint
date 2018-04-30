@@ -29,7 +29,9 @@
   },
   "homepage": "https://github.com/TimAConner/bob-ross-sprint#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "concurrently": "^3.5.1",
+    "express": "^4.16.3",
     "node-sass": "^4.9.0",
     "rerun-script": "^0.6.0"
   }
